@@ -2,6 +2,8 @@
 
 An AI-powered full-stack cold email assistant. Research prospects, generate personalized drafts with DSPy, review and edit before sending, and track memory across your entire outreach — all from a clean dashboard.
 
+<img src="./imgsrc/dashboard.png">
+
 ---
 
 ## Stack
